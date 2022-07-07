@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751095471909",
+    "project_id": "openmarket-6e3ee",
+    "storage_bucket": "openmarket-6e3ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751095471909:android:dd79c4c37805515e8784cc",
+        "android_client_info": {
+          "package_name": "com.example.open_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751095471909-cucho41c2e9homsj47pejk1esvtkqble.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYwTCA8sx58opsel81TBi0nU3mRJrD6EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751095471909-cucho41c2e9homsj47pejk1esvtkqble.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
